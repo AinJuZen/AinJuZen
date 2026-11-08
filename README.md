@@ -24,6 +24,11 @@
 
 写东西的地方：[ainjuzen.github.io](https://ainjuzen.github.io/)
 
+踩过的坑记在各个仓库的 Discussions 里，比如：
+[官方那个下载按钮](/AinJuZen/ComfyUI-ModelMirror/discussions/1) ·
+[审核打回来的安全漏洞](/AinJuZen/ComfyUI-ModelMirror/discussions/2) ·
+[下了模型该放哪](/AinJuZen/ComfyUI-ModelSorter/discussions/1)
+
 B 站：[痒局长](https://space.bilibili.com/322892)
 
 邮箱：821858285@qq.com
