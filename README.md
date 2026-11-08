@@ -44,7 +44,9 @@
 
 ## 写下来的过程
 
-每个工具为什么这么做、踩了什么坑，都在各仓库的 Discussions 里：
+**开发日志：[ainjuzen.github.io](https://ainjuzen.github.io/)**
+
+每个工具为什么这么做、踩了什么坑：
 
 - [官方那个「下载」按钮，在国内基本按不动](https://github.com/AinJuZen/ComfyUI-ModelMirror/discussions/1)
 - [下了模型，然后站在目录前面发呆](https://github.com/AinJuZen/ComfyUI-ModelSorter/discussions/1)
